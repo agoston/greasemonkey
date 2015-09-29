@@ -1,0 +1,16 @@
+<UserScriptConfig>
+	<Script basedir="No_announcement_warning" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="No_announcement_warning.user.js" installTime="1442910199000" modified="1443170702000" name="Remove JIRA announcement" namespace="horvath.agoston@gmail.com" runAt="document-end" updateMetaStatus="unknown" uuid="26f2547f-3636-794b-b5a8-119bc52274bf" version="1" installurl="file:///Users/agoston/Library/Application%20Support/Firefox/Profiles/r9hncdop.default/gm_scripts/No_announcement_warning/No_announcement_warning.user.js" updateurl="file:///Users/agoston/Library/Application%20Support/Firefox/Profiles/r9hncdop.default/gm_scripts/No_announcement_warning/No_announcement_warning.user.js">
+		<Grant>none</Grant>
+		<Include>/^https?://jira\.tools\.bol\.com//</Include>
+		<UserInclude>/^https?://jira\.tools\.bol\.com//</UserInclude>
+	</Script>
+	<Script basedir="Remove_crucible_footer" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Remove_crucible_footer.user.js" installTime="1443170059000" modified="1443171057000" name="Remove crucible footer" namespace="horvath.agoston@gmail.com" runAt="document-end" updateMetaStatus="unknown" uuid="4f835a13-41d3-994a-9c10-f5b9c4e2fa94" version="1" installurl="file:///Users/agoston/Library/Application%20Support/Firefox/Profiles/r9hncdop.default/gm_scripts/Remove_crucible_footer/Remove_crucible_footer.user.js" updateurl="file:///Users/agoston/Library/Application%20Support/Firefox/Profiles/r9hncdop.default/gm_scripts/Remove_crucible_footer/Remove_crucible_footer.user.js">
+		<Grant>none</Grant>
+		<Include>/^https?://crucible\.tools\.bol\.com//</Include>
+		<UserInclude>/^https?://crucible\.tools\.bol\.com//</UserInclude>
+	</Script>
+	<Script basedir="Sysstate_refresh_disable" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" noframes="false" filename="Sysstate_refresh_disable.user.js" installTime="1443443389000" modified="1443444947000" name="Sysstate refresh disable" namespace="horvath.agoston@gmail.com" runAt="document-end" updateMetaStatus="unknown" uuid="b0e632b3-61ad-ba42-8932-f40846dd251b" version="1" installurl="file:///Users/agoston/Library/Application%20Support/Firefox/Profiles/r9hncdop.default/gm_scripts/Sysstate_refresh_disable/Sysstate_refresh_disable.user.js" updateurl="file:///Users/agoston/Library/Application%20Support/Firefox/Profiles/r9hncdop.default/gm_scripts/Sysstate_refresh_disable/Sysstate_refresh_disable.user.js">
+		<Grant>none</Grant>
+		<Include>http*://sysstate.dev.bol.com/</Include>
+	</Script>
+</UserScriptConfig>
